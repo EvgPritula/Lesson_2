@@ -11,7 +11,7 @@ public abstract class Appliances {
         this.power = power;
 
 
-    public abstract power();
+    public abstract CalculetePower();
 
     public String getName(){
         return name;
